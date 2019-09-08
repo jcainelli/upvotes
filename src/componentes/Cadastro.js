@@ -52,6 +52,7 @@ class Cadastro extends Component {
                 });
 
             console.log(postObj);
+            
         }
 
         e.preventDefault();
